@@ -39,4 +39,4 @@ Este es un programa que permite al usuario colocar imágenes en una escena y dib
 
 ## Autor
 
-Este programa fue desarrollado por [Cesar Fernando Flores Bautista]([https://github.com/tu_usuario](https://github.com/fernandoflores2002)).
+Este programa fue desarrollado por [Cesar Fernando Flores Bautista](https://github.com/fernandoflores2002).
